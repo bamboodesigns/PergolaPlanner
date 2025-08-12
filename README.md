@@ -34,7 +34,7 @@ product_url (where the plan is sold/hosted).
 Tip: You can fetch from your open catalog later:
 
 // future:
-// const PRODUCTS = await (await fetch('https://bamboodesigns.com/open-catalog/catalog-v1.0.json')).json();
+// const PRODUCTS = await (await fetch('[https://bamboodesigns.com/open-catalog/catalog-v1.0.json](https://bamboodesigns.shop/products)')).json();
 
 ## Embed on Your Site
 Once deployed (GitHub Pages/Hostinger), drop this in any page:
